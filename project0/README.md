@@ -20,9 +20,9 @@ collaboration for your class project, or for other classes.
 #### Just Cloning the Class Repository
 You don't need a GitHub account for just cloning the class repository. From the commandline, just do:
 
-`git clone https://github.com/cmsc320/spring2022.git`
+`git clone https://github.com/cmsc320/fall2022.git`
 
-You can do `git pull` (from within the `spring2022` directory) to fetch the newly added material. 
+You can do `git pull` (from within the `fall2022` directory) to fetch the newly added material. 
 
 *NOTE*: If you are having trouble installing `git`, you can just download the files instead (as a zipfile), although updating may become tedious. 
 
@@ -36,7 +36,7 @@ Repositories hosted on github for free accounts are public; however, you can eas
     - Go to Profile: https://github.com/settings/profile, and SSH Keys (or directly: https://github.com/settings/ssh)
     - Add SSH Key
 - Clone the class repository:
-    - In Terminal: `git clone git@github.com:cmsc320/spring2022.git`
+    - In Terminal: `git clone git@github.com:cmsc320/fall2022.git`
     - The master branch should be checked out in a new directory 
 - Familiarize yourself with the basic git commands
     - At a minimum, you would need to know: `clone`, `add`, `commit`, `push`, `pull`, `status`
