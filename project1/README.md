@@ -2,8 +2,8 @@
 
 #### _CMSC320_
 
-**Posted:** February 8, 2022; 
-**Due:** February 22, 2022
+**Posted:** September 18, 2022; 
+**Due:** October 1, 2022
 
 Please _read the entire document before starting_!
 
