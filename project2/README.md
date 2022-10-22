@@ -79,7 +79,9 @@ Using SQL compute a relation containing the total payroll and winning percentage
 
 Include the SQL code you used to create this relation in your writeup. Describe how you dealt with any missing data in these two relations. Specifically, indicate if there is missing data in either table, and how the type of join you used determines how you dealt with this missing data. One note, for SQL you have to be mindful of integer vs. float division.
 
-I mentioned in the lectures that some folks find Pandas simpler to use than SQL, and that's true. However, there are cases where SQL is unavoidable. If the data is already stored in a database, you'd need to know at least enough SQL to get the data out.
+Remember, you must use SQL and ONLY SQL for this part of the assignment! It's not required to finish the task in a single line. If you need to, it's fine to make more than one query to finish the job.
+
+I mentioned in the lectures that some folks find Pandas simpler to use than SQL, and that's true. However, there are cases where SQL is unavoidable. If the data is already stored in a database, you'd need to know at least enough SQL to get the data out. 
 
 ## Part 2: Exploratory Data Analysis
 
