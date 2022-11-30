@@ -1,8 +1,8 @@
 # Project 4
 
-Posted: April 28, 2022
+Posted: Wednesday, November 30
 
-Due: May 6, 2022 at 11:59pm EDT
+Due: Dec 10, 2022 at 11:59pm EDT
 
 ## Aims
 
